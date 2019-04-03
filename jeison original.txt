@@ -1,0 +1,79 @@
+<html>
+<head>
+<title> Hoja De Vida</title>
+<style>
+
+.cities {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+
+
+BODY { margin: 5em }            
+P    { margin: 2em 4em } 
+</style>
+
+
+
+<body style="background-color:#DCDCDC;">
+</body>
+
+
+
+<IMG align="right" src="https://i.ibb.co/m6q9Ps3/foto.jpg" alt="foto" style="width:220px;height:250px;">
+
+<div class = "cities">
+<h1>PERFIL PROFESIONAL</h1>
+</div>
+
+<p> Estudiante de Ingenieria de Sistemas con gran sentido de 
+responsabilidad <br> proactivo, honesto con capacidad y disposicion
+ para aprender. Interesado por<br>cumplir con las diferentes tareas
+ que asignen, caracterizado por tener muy<br> buenas relaciones 
+ interpersonales, trabajo sobre presion y seguimiento de <br>
+instrucciones.</p>
+
+<p>
+<b>DOCUMENTO DE IDENTIDAD:</B> 1.012.465418<br><br>
+<b> NUM LIBRETA MILITAR: </b> 1.012.465.418<br><br>
+<b> FECHA DE NACIMIENTO: </b> 12-Nov-1999<br><br>
+<b> DIRECCION: </b> Calle 78Sur # 78-71<br><br>
+<b> CELULAR: </b> 3022543747<br><br>
+<b> ESTADO CIVIL:</b> Soltero <br><br>
+<b> E-MAIL:</b> jeisson.munozs@cun.edu.co <br><br>
+</p>
+
+
+<input type="button" value="Informacion Academica" onClick="window.location = 'file:///D:/JEISON/estudios.html';"> <br><br>
+<input type="button" value="Informacion Laboral" onClick="window.location = 'file:///D:/JEISON/laboral.html';"> <br><br>
+
+
+<style>
+.btn-whatsapp {
+       display:block;
+       width:15px;
+       height:15px;
+       color:#fff;
+       position: fixed;
+       right:10px;
+       bottom:10px;
+       border-radius:50%;
+       line-height:20px;
+       text-align:center;
+       z-index:700;
+}
+
+</style>
+<body background ="
+<div class="btn-whatsapp">
+<a href="https://api.whatsapp.com/send?phone=573022543747" target="_blank">
+<img src="http://s2.accesoperu.com/logos/btn_whatsapp.png" alt="">
+</a>
+</div>
+</head>
+<body>
+
+</body>
+</html>
